@@ -45,6 +45,9 @@ class NewSort
 		int n = arr.length;
 		bubbleSort(arr, n);
 		System.out.println("Sorted array: ");
+		System.out.println("Sorted array: ");
+		System.out.println("Sorted array: ");
+		System.out.println("Sorted array: ");
 		printArray(arr, n);
 	}
 }
